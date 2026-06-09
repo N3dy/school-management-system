@@ -1,0 +1,6 @@
+{
+  "name": "Smart School Management System",
+  "description": "Secure, responsive school management web application with role-based access control, teacher GPS-geofence attendance, academic analytics, parent verification, audit logging, and English/Kiswahili localization.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
